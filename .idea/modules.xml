@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-xutils/common-xutils.iml" filepath="$PROJECT_DIR$/common-xutils/common-xutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils.iml" filepath="$PROJECT_DIR$/xutils.iml" />
+    </modules>
+  </component>
+</project>
